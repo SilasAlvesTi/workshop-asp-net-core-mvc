@@ -28,3 +28,4 @@
 /home/silas/Documentos/estudos-cs/asp/SalesWebMvc/obj/Debug/net8.0/SalesWebMvc.pdb
 /home/silas/Documentos/estudos-cs/asp/SalesWebMvc/obj/Debug/net8.0/SalesWebMvc.genruntimeconfig.cache
 /home/silas/Documentos/estudos-cs/asp/SalesWebMvc/obj/Debug/net8.0/ref/SalesWebMvc.dll
+/home/silas/Documentos/estudos-cs/asp/SalesWebMvc/obj/Debug/net8.0/SalesWebMvc.sourcelink.json

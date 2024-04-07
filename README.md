@@ -1,1 +1,1 @@
-Projeto utilizando as tecnologias: asp.net core mvc, mysql
+Projeto utilizando as tecnologias: asp.net core mvc, razor, mysql
