@@ -276,3 +276,5 @@
 /home/silas/Documentos/estudos-cs/asp/SalesWebMvc/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
 /home/silas/Documentos/estudos-cs/asp/SalesWebMvc/obj/Debug/net8.0/SalesWebMvc.csproj.AssemblyReference.cache
 /home/silas/Documentos/estudos-cs/asp/SalesWebMvc/obj/Debug/net8.0/SalesWebMvc.csproj.CopyComplete
+/home/silas/Documentos/estudos-cs/asp/SalesWebMvc/bin/Debug/net8.0/MySqlConnector.dll
+/home/silas/Documentos/estudos-cs/asp/SalesWebMvc/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
