@@ -1,4 +1,5 @@
 
+using System.Diagnostics.CodeAnalysis;
 using SalesWebMvc.Models.Enums;
 
 namespace SalesWebMvc.Models
@@ -14,7 +15,7 @@ namespace SalesWebMvc.Models
         public SalesRecord()
         {
         }
-
+        [SetsRequiredMembers]
         public SalesRecord(int id, DateTime date, double amount, SaleStatus status, Seller seller)
         {
             Id = id;

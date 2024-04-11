@@ -1,4 +1,6 @@
 
+using System.Diagnostics.CodeAnalysis;
+
 namespace SalesWebMvc.Models
 {
     public class Seller
@@ -15,6 +17,7 @@ namespace SalesWebMvc.Models
         {
         }
 
+        [SetsRequiredMembers]
         public Seller(int id, string name, string email, DateTime birthDate, double baseSalary, Department department)
         {
             Id = id;
@@ -25,6 +28,7 @@ namespace SalesWebMvc.Models
             Department = department;
         }
 
+       
         public void AddSales(SalesRecord sr)
         {
             Sales.Add(sr);
