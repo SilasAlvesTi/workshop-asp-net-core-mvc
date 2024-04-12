@@ -66,6 +66,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VsbGVycy9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/silas/Documentos/estudos-cs/asp/SalesWebMvc/Views/Sellers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VsbGVycy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/silas/Documentos/estudos-cs/asp/SalesWebMvc/Views/Sellers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VsbGVycy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
