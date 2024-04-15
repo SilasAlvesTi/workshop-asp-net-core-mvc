@@ -54,6 +54,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/silas/Documentos/estudos-cs/asp/SalesWebMvc/Views/SalesRecords/GroupingSearch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2FsZXNSZWNvcmRzL0dyb3VwaW5nU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/silas/Documentos/estudos-cs/asp/SalesWebMvc/Views/SalesRecords/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2FsZXNSZWNvcmRzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/silas/Documentos/estudos-cs/asp/SalesWebMvc/Views/SalesRecords/SimpleSearch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2FsZXNSZWNvcmRzL1NpbXBsZVNlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/silas/Documentos/estudos-cs/asp/SalesWebMvc/Views/Sellers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VsbGVycy9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
